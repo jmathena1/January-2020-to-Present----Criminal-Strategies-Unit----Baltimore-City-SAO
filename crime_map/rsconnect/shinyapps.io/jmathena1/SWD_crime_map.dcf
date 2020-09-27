@@ -1,0 +1,12 @@
+name: SWD_crime_map
+title: SWD_crime_map
+username:
+account: jmathena1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2521836
+bundleId: 3335473
+url: https://jmathena1.shinyapps.io/SWD_crime_map/
+when: 1593542791.16822
+asMultiple: FALSE
+asStatic: FALSE

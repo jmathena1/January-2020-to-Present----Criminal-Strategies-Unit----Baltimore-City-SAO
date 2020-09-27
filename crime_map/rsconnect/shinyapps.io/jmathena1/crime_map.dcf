@@ -1,0 +1,12 @@
+name: crime_map
+title: crime_map
+username:
+account: jmathena1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2545334
+bundleId: 3564345
+url: https://jmathena1.shinyapps.io/crime_map/
+when: 1598546026.98829
+asMultiple: FALSE
+asStatic: FALSE
